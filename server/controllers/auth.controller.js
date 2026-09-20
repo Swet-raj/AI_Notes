@@ -1,4 +1,4 @@
-import UserModel from "../models/user.model.js";
+              import UserModel from "../models/user.model.js";
 import { generateToken } from "../utils/token.js";
 
 export const googleAuth = async (req, res) => {
@@ -14,8 +14,8 @@ export const googleAuth = async (req, res) => {
     let token = await generateToken(user._id);
     res.cookie("token", token, {
       httpOnly: true,
-      secure: process.env.NODE_ENV === "production",
-      sameSite: process.env.NODE_ENV === "production" ? "none" : "lax",
+      secure: true,
+      sameSite: none,
       path: "/",
       maxAge: 7 * 24 * 60 * 60 * 1000, //7days
     });
