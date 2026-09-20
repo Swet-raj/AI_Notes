@@ -71,11 +71,6 @@ Built with the **MERN Stack**, integrated with **Gemini AI**, **Stripe payments*
 ### Installation
 
 ```bash
-git clone https://github.com/SHAIKHANIF2004/AI-NOTES-GENERATOR.git
-cd AI-NOTES-GENERATOR
-```
-
-```bash
 # Install backend
 npm install
 
@@ -103,8 +98,6 @@ cd client && npm run dev
 
 🚀 Generate AI-powered exam notes instantly:
 
-https://ai-notes-generator-client.onrender.com
-
 ---
 
 ## 🔧 Environment Variables
@@ -113,7 +106,7 @@ https://ai-notes-generator-client.onrender.com
 
 | Variable                | Description                       | Example Value                        |
 | :---------------------- | :-------------------------------- | :----------------------------------- |
-| `PORT`                  | Backend server port               | `8080`                               |
+| `PORT`                  | Backend server port               | `8000`                               |
 | `MONGO_URI`             | MongoDB connection string         | `mongodb://localhost:27017/ai-notes` |
 | `JWT_SECRET`            | JWT secret key                    | `your_secure_jwt_secret`             |
 | `GEMINI_API_KEY`        | Gemini API key                    | `your_gemini_api_key`                |
