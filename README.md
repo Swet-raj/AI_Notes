@@ -161,6 +161,3 @@ Base Route: `/api/v1`
 ✅ Resume-worthy full-stack architecture  
 
 ---
-
-
-Live App: https://ai-notes-generator-client.onrender.com
