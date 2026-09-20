@@ -1,6 +1,6 @@
 # 🚀 AI-Notes-Generator – AI Powered Exam Notes SaaS Platform
 
-[![GitHub Repo URL](https://img.shields.io/badge/GitHub-SHAIKHANIF2004%2FAI--NOTES--GENERATOR-blue?style=flat&logo=github)](https://github.com/SHAIKHANIF2004/AI-NOTES-GENERATOR)
+
 [![Technology Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI%20%2B%20Stripe-brightgreen)]()
 [![Live Application](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue)](https://ai-notes-generator-client.onrender.com)
 
@@ -162,7 +162,5 @@ Base Route: `/api/v1`
 
 ---
 
-Built with ❤️ by **Abdul Hanif Shaik**
 
-GitHub: https://github.com/SHAIKHANIF2004  
 Live App: https://ai-notes-generator-client.onrender.com
